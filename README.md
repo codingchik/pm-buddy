@@ -10,12 +10,12 @@
 ## 🎯 Quick Start
 
 **New to the project?** Start here:
-1. Read [Product Concept](./product_concept.md) - Understand the vision (10 min read)
-2. Review [Business Model Canvas](./business_model_canvas.md) - Understand the business (15 min read)
+1. Read [Product Concept](./Docs/product-concept.md) - Understand the vision (10 min read)
+2. Review [Business Model Canvas](./Docs/business-model-canvas.md) - Understand the business (15 min read)
 <!-- TBD 3. Skim [Market Analysis](./market_analysis.md) - Understand the opportunity (20 min read) -->
 
 **Engineering Partner?** Go directly to:
-- [Technical Specification](./technical_specification.md) - Complete implementation guide (60 min read)
+- [Technical Specification](./Docs/technical-specification.md) - Complete implementation guide (60 min read)
 
 <!-- TBD **Conducting User Research?** Use:
 - [User Interview Templates](./user_interview_templates.md) - Ready-to-use interview scripts -->
@@ -26,7 +26,7 @@
 
 ### Strategic Documents
 
-#### [Product Concept](./product_concept.md)
+#### [Product Concept](./Docs/product-concept.md)
 **Purpose:** Define what we're building and why  
 **Key Sections:**
 - Problem Statement
@@ -39,7 +39,7 @@
 
 ---
 
-#### [Business Model Canvas](./business_model_canvas.md)
+#### [Business Model Canvas](./Docs/business-model-canvas.md)
 **Purpose:** Define how we'll make money and scale  
 **Key Sections:**
 - Value Propositions
@@ -86,7 +86,7 @@
 
 ### Technical Documents
 
-#### [Technical Specification](./technical_specification.md) ⚠️ ENGINEERING FOCUS
+#### [Technical Specification](./Docs/technical-specification.md) ⚠️ ENGINEERING FOCUS
 **Purpose:** Complete technical blueprint for building the Ambient Intelligence Engine  
 **Key Sections:**
 - System Architecture (diagrams + tech stack)
